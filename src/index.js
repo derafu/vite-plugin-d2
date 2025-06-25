@@ -1,7 +1,7 @@
 /**
  * Derafu: Vite Plugin D2 - A Vite plugin to convert D2 diagrams to Images.
  *
- * Copyright (c) 2025 Esteban De La Fuente Rubio / Derafu <https://www.derafu.org>
+ * Copyright (c) 2025 Esteban De La Fuente Rubio / Derafu <https://www.derafu.dev>
  * Licensed under the MIT License.
  * See LICENSE file for more details.
  */
